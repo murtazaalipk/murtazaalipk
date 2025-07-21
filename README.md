@@ -54,17 +54,18 @@
 
 ## 📫 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/murtazaalipk" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/murtazaalipk" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murtazaalipk)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/murtazaalipk)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/murtazaaliipk)  
+
+---
+
+## 👁️‍🗨️ Visitor Counter  
+![Visitor Count](https://komarev.com/ghpvc/?username=murtazaalipk&style=for-the-badge&color=blue)
+
+---
 
 ---
 
