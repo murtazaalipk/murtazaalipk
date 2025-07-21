@@ -54,18 +54,37 @@
 
 ## 📫 Connect with Me  
 
-## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murtazaalipk)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/murtazaalipk)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/murtazaaliipk)  
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/murtazaalipk" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+        <br/>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/murtazaalipk" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+        <br/>GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/murtazaaliipk" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
+        <br/>Twitter
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👁️‍🗨️ Visitor Counter  
-![Visitor Count](https://komarev.com/ghpvc/?username=murtazaalipk&style=for-the-badge&color=blue)
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=murtazaalipk&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
