@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi 👋, I'm Syed Murtaza Ali
+Front-End Developer | Creative Technologist | Learning Backend
+Typing SVG
 
-<!--
-**murtazaalipk/murtazaalipk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
+🎨 I'm a Front-End Developer who brings designs to life with React.js, Next.js.
+🧪 I love experimenting with creative web interactions and pushing the boundaries of what’s possible in the browser.
+🔤 Languages I use: JavaScript (and learning Backend with Node.js & APIs).
+🚀 I love pushing the limits of creativity on the web.
+🚀 Tech Stack
+      
+📫 Connect with Me
+Portfolio LinkedIn Facebook Instagram
 
-Here are some ideas to get you started:
+🐍 GitHub Contribution Graph
+activity-graph graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+GitHub Stats
+GitHub Streak
+
+🏆 GitHub Trophies
