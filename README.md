@@ -1,68 +1,73 @@
-# 👋 Hi, I'm Syed Murtaza Ali  
+<h1 align="center">👋 Hi, I'm Syed Murtaza Ali</h1>
 
-### Front-End Developer | Creative Technologist | Learning Backend  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&width=435&lines=Front-End+Developer;Creative+Technologist;Learning+Backend+Development;I+Love+to+Code+%26+Create!" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧠 About Me  
 
-- 🎨 Front-End Developer passionate about turning designs into interactive experiences.  
-- ⚛️ Skilled in **React.js** and **Next.js**.  
-- 🧪 Love experimenting with creative UI/UX and web animations.  
-- 💻 **Languages I use:** JavaScript (learning Node.js & Backend APIs).  
-- 🚀 Always pushing the limits of creativity on the web.  
+- 🎨 Front-End Developer passionate about bringing designs to life  
+- ⚛️ Skilled with **React.js** and **Next.js**  
+- 🧪 Love experimenting with creative UI/UX and web animations  
+- 💻 **Languages I use:** JavaScript (Learning Backend with Node.js & APIs)  
+- 🚀 Always pushing creative limits in web development  
 
 ---
 
 ## 🚀 Tech Stack  
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)  
-
-**Backend (Learning):**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,figma" alt="My Tech Stack" />
+</p>
 
 ---
 
 ## 🐍 GitHub Contribution Graph  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=murtazaalipk&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murtazaalipk&theme=react-dark&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Syed Murtaza Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murtazaalipk&show_icons=true&theme=react)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murtazaalipk&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=murtazaalipk&theme=react)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murtazaalipk&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=murtazaalipk&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=murtazaalipk&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/murtazaalipk/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/murtazaalipk)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel)]()  
+<p align="center">
+  <a href="https://www.linkedin.com/in/murtazaalipk" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/murtazaalipk" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> “Creativity is intelligence having fun.” — *Albert Einstein*  
+<p align="center">
+  <em>“Creativity is intelligence having fun.” — Albert Einstein</em>
+</p>
