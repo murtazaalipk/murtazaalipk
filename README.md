@@ -70,9 +70,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://twitter.com/murtazaaliipk" target="_blank">
+      <a href="https://x.com/murtazaaliipk" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" />
-        <br/>Twitter
+        <br/>X
       </a>
     </td>
   </tr>
